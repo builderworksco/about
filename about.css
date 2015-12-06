@@ -63,4 +63,8 @@ h3 {
   li {
     font-size: 0.75em;
   }
+  .fa-li {
+    color: rgb(215, 217, 213);
+    padding: 5px 2px;
+  }
 }
